@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sundayonah
 - 👀 I’m interested in learning programming languages.
-- 🌱 I’m currently learning React, Javascript
 - 💞️ I’m looking to collaborate on web Develop/software Dev.
 - 📫 You can reach me on +2348166796176, sundayonah94@gmail.com, 
 

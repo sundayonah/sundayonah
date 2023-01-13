@@ -18,7 +18,7 @@ I'm an ambitious Full Stack developer with more than three years of experience, 
 
 - 📫 Email me **sundayonah94@gmail.com**
 
-<div align="flex-start" style="display:flex;">
+<div align="space-between" style="display:flex;">
  ## Education
 ### Moshood Abiola Polytechnic                     2014 - - 2019
 Computer Science 

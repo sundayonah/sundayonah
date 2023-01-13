@@ -18,12 +18,16 @@ I'm an ambitious Full Stack developer with more than three years of experience, 
 
 - 📫 Email me **sundayonah94@gmail.com**
 
-## Education
+<div align="flex-start" style="display:flex;">
+ ## Education
 ### Moshood Abiola Polytechnic                     2014 - - 2019
 Computer Science 
   
 ### Nigeria National Petroleum Council					   2016 - - 2017
 Information Tecnology
+</div>
+
+
 
 
 ## Skills and Experience

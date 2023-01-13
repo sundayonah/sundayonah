@@ -18,15 +18,12 @@ I'm an ambitious Full Stack developer with more than three years of experience, 
 
 - 📫 Email me **sundayonah94@gmail.com**
 
-<div align="space-between" style="display:flex;">
  ## Education
-### Moshood Abiola Polytechnic                     2014 - - 2019
+#### Moshood Abiola Polytechnic _________________________________________  2014 - - 2019
 Computer Science 
   
-### Nigeria National Petroleum Council					   2016 - - 2017
+#### Nigeria National Petroleum Council _________________________________  2016 - - 2017
 Information Tecnology
-</div>
-
 
 
 
@@ -45,9 +42,10 @@ I love playing piano, football, listening to music, also love learning new progr
 
 ## Connect with me:
 <p align="left">
+<a href="https://dev.to/onah sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="onah sunday" height="30" width="40" /></a>
 <a href="https://twitter.com/onah_sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onah_sunday" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/onah sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onah sunday" height="30" width="40" /></a>
-<a href="https://dribbble.com/onah sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="onah sunday" height="30" width="40" /></a>
+<a href="https://dribbble.com/onah_sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="onah_sunday" height="30" width="40" /></a>
 </p>
 
 # Onah sunday

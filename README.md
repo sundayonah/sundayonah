@@ -2,7 +2,7 @@
 
 ## < Full Stack Developer />
 
-## Connect with me:
+### Connect with me:
 <p align="left">
 <a href="https://dev.to/onah sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="onah sunday" height="30" width="40" /></a>
 <a href="https://twitter.com/onah_sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onah_sunday" height="30" width="40" /></a>

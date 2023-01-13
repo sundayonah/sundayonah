@@ -1,15 +1,15 @@
 # Hi 👋, I'm Onah Sunday
 
-## Full Stack Developer
+## < Full Stack Developer />
 
 I'm an ambitious Full Stack developer with more than three years of experience, who is passionate about coding and looking for a position in a reputable IT company with the chance to work with the newest technology on complex and varied projects.  
 
 
 - 🔭 I’m currently working on [movie App with React](https://xhunteq-movie.vercel.app/)
 
-- 🌱 I’m currently learning **Typescript, Docker**
+- 👯 currently working on  [Stunning Blockchain Portfolio](https://onahprosperity.github.io/)
 
-- 👯 I’m looking to collaborate on [Stunning Blockchain Portfolio](https://onahprosperity.github.io/)
+- 🌱 I’m currently learning **Typescript, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sundayonah](https://github.com/sundayonah)
 

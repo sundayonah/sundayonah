@@ -14,7 +14,7 @@
 I'm an ambitious Full Stack developer with more than three years of experience, who is passionate about coding and looking for a position in a reputable IT company with the chance to work with the newest technology on complex and varied projects.  
 
 
-- 🔭 I’m currently working on [movie App with React](https://xhunteq-movie.vercel.app/)
+- 🔭 I’m currently working on [Bid-Auction](https://bidauction-token-v2migration.vercel.app/)
 
 - 👯 currently working on  [Stunning Blockchain Portfolio](https://onahprosperity.github.io/)
 

@@ -1,6 +1,6 @@
 # Hi 👋, I'm Onah Sunday
 
-## < Full Stack Developer />
+## < Front-end / Web 3 Developer />
 
 ### Connect with me:
 <p align="left">

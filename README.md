@@ -18,7 +18,7 @@ I'm an ambitious Full Stack developer with more than three years of experience, 
 
 - 👯 currently working on  [Stunning Blockchain Portfolio](https://onahprosperity.github.io/)
 
-- 🌱 I’m currently learning **Typescript, Docker**
+- 🌱 I’m currently learning **Solidity,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sundayonah](https://github.com/sundayonah)
 

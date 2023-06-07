@@ -14,11 +14,7 @@
 I'm an ambitious Full Stack developer with more than three years of experience, who is passionate about coding and looking for a position in a reputable IT company with the chance to work with the newest technology on complex and varied projects.  
 
 
-- 🔭 I’m currently working on [Bid-Auction](https://bidauction-token-v2migration.vercel.app/)
-
-- 👯 currently working on  [Stunning Blockchain Portfolio](https://onahprosperity.github.io/)
-
-- 🌱 I’m currently learning **Solidity,**
+<!-- - 🔭 I’m currently working on [Bid-Auction](https://bidauction-token-v2migration.vercel.app/) -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/sundayonah](https://github.com/sundayonah)
 

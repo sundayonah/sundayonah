@@ -15,19 +15,19 @@ I'm an ambitious Full Stack developer with more than three years of experience, 
 - Perdonal Website [https://onahsunday.vercel.app/](https://onahsunday.vercel.app/)
 
 
-WHAT I DO IN MY FREE TIMES
-### During my freetime I research about Bitcoin. <br/>
-### Contribute to Open Source. <br/>
-### Listen to Music <br/>
-### I Read books 📚 <br/>
-### Piano <br/>
+## WHAT I DO IN MY FREE TIMES
+During my freetime I research about Bitcoin. <br/>
+Contribute to Open Source. <br/>
+Listen to Music <br/>
+I Read books 📚 <br/>
+Piano <br/>
 
 
-INTEREST
-### Web3 <br/>
-### Math <br/>
-### DApp <br/>
+## INTEREST
+Web3 <br/>
+Math <br/>
+DApp <br/>
 
 
 
-# Onah sunday
+#codeIt

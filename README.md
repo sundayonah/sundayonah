@@ -4,10 +4,8 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://dev.to/onah sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="onah sunday" height="30" width="40" /></a>
 <a href="https://twitter.com/onah_sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onah_sunday" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/onah sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onah sunday" height="30" width="40" /></a>
-<a href="https://dribbble.com/onah_sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="onah_sunday" height="30" width="40" /></a>
 </p>
 
 ## About Me 👨‍💻 <br/>
@@ -29,14 +27,14 @@ During my freetime I research about Bitcoin.
 Contribute to Open Source.
 Listen to Music
 I Read books 📚
+Piano
 
 
-## Connect with me:
-<p align="left">
-<a href="https://dev.to/onah sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="onah sunday" height="30" width="40" /></a>
-<a href="https://twitter.com/onah_sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onah_sunday" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/onah sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onah sunday" height="30" width="40" /></a>
-<a href="https://dribbble.com/onah_sunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="onah_sunday" height="30" width="40" /></a>
-</p>
+## INTEREST
+Web3
+Math
+DApp
+
+
 
 # Onah sunday

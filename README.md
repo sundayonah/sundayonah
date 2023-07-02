@@ -12,27 +12,21 @@
 I'm an ambitious Full Stack developer with more than three years of experience, who is passionate about coding and looking for a position in a reputable IT company with the chance to work with the newest technology on complex and varied projects.  
 
 
-<!-- - 🔭 I’m currently working on [Bid-Auction](https://bidauction-token-v2migration.vercel.app/) -->
-
-- 👨‍💻 All of my projects are available at [https://github.com/sundayonah](https://github.com/sundayonah)
 - Perdonal Website [https://onahsunday.vercel.app/](https://onahsunday.vercel.app/)
 
 
-- 📫 Email me **sundayonah94@gmail.com**
-
-
 WHAT I DO IN MY FREE TIMES
-During my freetime I research about Bitcoin. <br/>
-Contribute to Open Source. <br/>
-Listen to Music <br/>
-I Read books 📚 <br/>
-Piano <br/>
+### During my freetime I research about Bitcoin. <br/>
+### Contribute to Open Source. <br/>
+### Listen to Music <br/>
+### I Read books 📚 <br/>
+### Piano <br/>
 
 
 INTEREST
-Web3 <br/>
-Math <br/>
-DApp <br/>
+### Web3 <br/>
+### Math <br/>
+### DApp <br/>
 
 
 

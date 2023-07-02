@@ -17,23 +17,22 @@ I'm an ambitious Full Stack developer with more than three years of experience, 
 - 👨‍💻 All of my projects are available at [https://github.com/sundayonah](https://github.com/sundayonah)
 - Perdonal Website [https://onahsunday.vercel.app/](https://onahsunday.vercel.app/)
 
-- 💬 Ask me about **Front-end, Web3**
 
 - 📫 Email me **sundayonah94@gmail.com**
 
 
-## WHAT I DO IN MY FREE TIMES
-During my freetime I research about Bitcoin.
-Contribute to Open Source.
-Listen to Music
-I Read books 📚
-Piano
+WHAT I DO IN MY FREE TIMES
+During my freetime I research about Bitcoin. <br/>
+Contribute to Open Source. <br/>
+Listen to Music <br/>
+I Read books 📚 <br/>
+Piano <br/>
 
 
-## INTEREST
-Web3
-Math
-DApp
+INTEREST
+Web3 <br/>
+Math <br/>
+DApp <br/>
 
 
 
